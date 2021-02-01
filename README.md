@@ -13,7 +13,7 @@ Pyber, a ride sharing company requires a thorough inspection of the two given da
 
 ## Resources
 - Data Source: city_data.csv, ride_data.csv
--Software: Python 3.6.7, Anaconda 2020.11, Jupyter Notebook 6.2.0
+- Software: Python 3.6.7, Anaconda 2020.11, Jupyter Notebook 6.2.0
 
 ## Results
 - Rural
@@ -52,4 +52,8 @@ Pyber, a ride sharing company requires a thorough inspection of the two given da
 Based off of the current summary and the fare trends, it is evident that the Urban market has the most number of rides while rural has the least. This is also reflected on the percentage of fares by each city type on the pie chart below. Although the urban market has the most number of rides, the rural market however has the highest average fare out of the three assuming that the passengers are travelling farther distances compared to the urban and suburban passengers. The number of drivers also reflect the demand for each city type, especially the urban market with more drivers than total rides.
 
 
-## Summary
+## Recommendations
+- The total number of drivers exceed the demand in the urban market, therefore drivers from the urban market should be moved to the rural or the suburban market. This is especially true since the rural market only takes account for 2.6% of all the drivers while  it is responsible for 6.8% of the total fares.
+- With the highest average fare per city type, increase the demand within the rural market
+- Determine the reason why there is a significant downtrend during the third week of February
+- Include the average miles traveled per ride in the dataset to gain more insight within the differences in average fares and rides per city type
