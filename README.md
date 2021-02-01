@@ -16,18 +16,15 @@ Pyber, a ride sharing company requires a thorough inspection of the two given da
 -Software: Python 3.6.7, Anaconda 2020.11, Jupyter Notebook 6.2.0
 
 ## Results
-
-        Total Rides	| Total Drivers |	Total Fares |	Average Fare per Ride	| Average Fare per Driver
-Rural	      125	             78	        $4,327.93	        $34.62	                    $55.49
-
-Suburban	  625	            490	        $19,356.33	      $30.97	                    $39.50
-
-Urban	     1,625	         2,405	      $39,854.38	      $24.53	                    $16.57
-
 ###### Rural
-
+The rural city type has a total of 125 rides, 78 Total Drivers, $4,327.93 Total Fares, $34.62 Average Fare per Ride, and $55.49 Average Fare per Driver 
 ###### Suburban
+The suburban city type has a total of 625 rides, 490 Total Drivers, $19,356.33 Total Fares, $30.97 Average Fare per Ride, and $39.50 Average Fare per Driver.
 
 ###### Urban
+The urban city type has a total of 1,625 rides, 2,405 Total Drivers, $39,3854.38 Total Fares, $24.53 Average Fare per Ride, and $16.57 Average Fare per Driver.
+
+##### Total Fare trends by City Type
+![](Analysis/Pyber_fare_summary.png)
 
 ## Summary
