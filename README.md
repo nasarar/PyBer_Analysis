@@ -1,9 +1,9 @@
 # PyBer_Analysis
 
 ## Project Overview
-Pyber, a ride sharing company requires a thorough inspection of the two given data sets. city and ride data. An explanatory analysis must be performed using the Pandas library, Matplotlib, and Jupyter Notebook to visualize the provided data in order top create data driven decisions. A list of deliverables is highlighted below as per the company requirements.
+Pyber, a ride sharing company requires a thorough inspection of the two given data sets, city and ride data. An explanatory analysis must be performed using the Pandas library, Matplotlib, and Jupyter Notebook to visualize the provided data in order top create data driven decisions. A list of deliverables is highlighted below as per the company requirements.
 
-1. Inspect dataset
+1. Load, read and inspect dataset
 2. Merge datasets to create a workable dataframe
 3. Calculate the total rides, drivers, and the amount of fares for each city type
 4. Calculate the average fare per ride for each city type
