@@ -16,15 +16,40 @@ Pyber, a ride sharing company requires a thorough inspection of the two given da
 -Software: Python 3.6.7, Anaconda 2020.11, Jupyter Notebook 6.2.0
 
 ## Results
-###### Rural
-The rural city type has a total of 125 rides, 78 Total Drivers, $4,327.93 Total Fares, $34.62 Average Fare per Ride, and $55.49 Average Fare per Driver 
-###### Suburban
-The suburban city type has a total of 625 rides, 490 Total Drivers, $19,356.33 Total Fares, $30.97 Average Fare per Ride, and $39.50 Average Fare per Driver.
+- Rural
+  - 125 rides 
+  - 78 Total Drivers
+  - $4,327.93 Total Fares
+  - $34.62 Average Fare per Ride
+  - $55.49 Average Fare per Driver 
+  
+- Suburban
+  - 625 rides
+  - 490 Total Drivers
+  - $19,356.33 Total Fares
+  - $30.97 Average Fare per Ride
+  - $39.50 Average Fare per Driver
 
-###### Urban
-The urban city type has a total of 1,625 rides, 2,405 Total Drivers, $39,3854.38 Total Fares, $24.53 Average Fare per Ride, and $16.57 Average Fare per Driver.
+- Urban
+  - 1,625 rides
+  - 2,405 Total Drivers
+  - $39,3854.38 Total Fares
+  - $24.53 Average Fare per Ride
+  - $16.57 Average Fare per Driver
+
 
 ##### Total Fare trends by City Type
 ![](Analysis/Pyber_fare_summary.png)
+![](Analysis/Fig1.png)
+![](Analysis/Fig2.png)
+![](Analysis/Fig3.png)
+![](Analysis/Fig4.png)
+![](Analysis/Fig5.png)
+![](Analysis/Fig6.png)
+![](Analysis/Fig7.png)
+
+
+Based off of the current summary and the fare trends, it is evident that the Urban market has the most number of rides while rural has the least. This is also reflected on the percentage of fares by each city type on the pie chart below. Although the urban market has the most number of rides, the rural market however has the highest average fare out of the three assuming that the passengers are travelling farther distances compared to the urban and suburban passengers. The number of drivers also reflect the demand for each city type, especially the urban market with more drivers than total rides.
+
 
 ## Summary
